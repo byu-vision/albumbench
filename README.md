@@ -1,5 +1,7 @@
 # AlbumBench Dataset
 
+[Project page](https://byu-vision.github.io/albumbench/)
+
 This repo contains the AlbumBench annotated dataset built on top of CUFED.
 It includes album inventories, task annotations, source labels, and train/test
 split membership for vision-language album understanding tasks.
