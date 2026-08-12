@@ -6,6 +6,10 @@ This repo contains the AlbumBench annotated dataset built on top of CUFED.
 It includes album inventories, task annotations, source labels, and train/test
 split membership for vision-language album understanding tasks.
 
+## CUFED Images
+
+The CUFED images can be downloaded from [Hugging Face](https://huggingface.co/datasets/Shawn-Huang/CUFED-AlbumBench).
+
 ## Files
 
 ### `albums.jsonl`
